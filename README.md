@@ -17,7 +17,7 @@ sudo systemctl enable docker --now
 ```
 ## Starting
 ```bash
-# In the folder wher ethe docker-compose.yml is located at
+# In the folder where the docker-compose.yml is located at
 sudo docker compose up -d
 ```
 ## Viewing
