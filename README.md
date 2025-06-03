@@ -1,6 +1,10 @@
+> [!NOTE] 
+> Informācija kolēģiem kuriem tika atsūtīta šo linku:  
+> Viss kods atrodās `public/` folderī. Lietojiet [Replit](https://replit.com/) vai [Laragon](https://laragon.org/download/) priekš lapas apskates.  
+> Ja vēlprojām nesaprot, gaidat kad stunda notiks.
+
 # Weather Forecast App
 School project, that was forced to be open-sourced.  
-A simple Weather app.
 
 # Context
 So... I have this one teacher where we do documentation and saw that one of the points was "Installation and operating instructions".   
