@@ -290,7 +290,7 @@
                     </p>
                 </div>
 
-                <!-- Chance of Gust -->
+                <!-- Chance of Gust-avs -->
                 <div class="small white shadow br">
                     <div class="flex">
                         <img src="./img/wind.gif" alt="Description of the image" class="tfour">
