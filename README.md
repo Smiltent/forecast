@@ -1,5 +1,5 @@
 > [!NOTE] 
-> Informācija kolēģiem kuriem tika atsūtīta šo linku:  
+> Informācija kolēģiem, tiem, kuriem tika atsūtīts links uz šo GitHub repozitoriju:  
 > Kodu var lejupielādēt [šeit](https://github.com/Smiltent/forecast/archive/refs/heads/main.zip).
 > Viss kods atrodās `public/` folderī. Importējiet kodu [Replit](https://replit.com/) vai [Laragon](https://laragon.org/download/) lai modificētu un apskatīt lapu.
 > Ja vēlprojām nesaprot, gaidat kad stunda notiks.
