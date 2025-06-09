@@ -141,7 +141,7 @@
                     var searchTimeout;
                     document.getElementById('thesearchbarofdoom').onkeypress = function () {
                         if (searchTimeout != undefined) clearTimeout(searchTimeout);
-                        searchTimeout = setTimeout(pageRedirect, 500);
+                        searchTimeout = setTimeout(pageRedirect, 1500);
                     }
 
                     function pageRedirect() {
